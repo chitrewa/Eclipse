@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="GITDemo1" name="GITDemo1" path="F:/GITPROJECT/Eclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/GITDemo1" type="static"/>
+</server>
